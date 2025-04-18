@@ -67,11 +67,7 @@ This project analyzes and forecasts real estate trends in New York City using ro
 
 ---
 
-## 📸 Sample Visualizations
 
-*(Add screenshots of your charts here after uploading to `images/` folder)*
-
----
 
 ## 🔗 Project Author
 
