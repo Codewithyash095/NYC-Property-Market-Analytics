@@ -54,3 +54,36 @@ This project analyzes and forecasts real estate trends in New York City using ro
 - Jupyter Notebook
 
 ---
+
+
+---
+
+## 📈 Model Results
+
+| Model              | MAE ($)     | RMSE ($)     | R² Score |
+|-------------------|-------------|--------------|----------|
+| Linear Regression | ~2,037,336  | ~8,325,801   | 0.0896   |
+| XGBoost Regressor | *(update this once done)* | *(update)* | *(update)* |
+
+---
+
+## 📸 Sample Visualizations
+
+*(Add screenshots of your charts here after uploading to `images/` folder)*
+
+---
+
+## 🔗 Project Author
+
+**Yash Patel**  
+🎓 Masters in Data Analytics – Northeastern University  
+💼 Actively seeking Data Analytics / Data Science internship for **Winter 2026 (January Start)** 🇺🇸  
+📫 LinkedIn: https://www.linkedin.com/in/yash-patel-0905yash/ 
+📺 YouTube: [@Yash_patel_coding095](https://www.youtube.com/@Yash_patel_coding095)
+
+---
+
+## 🔥 Keywords
+
+`Python` `Data Science` `Real Estate Analytics` `XGBoost` `NYC Property Market` `EDA` `Forecasting` `Data Analyst Project` `GitHub Portfolio`
+
